@@ -96,10 +96,10 @@ class listener(StreamListener):
         try:
             data = json.loads(data)
             
-			#tweepy preprocessing called for basic preprocessing
+	    #tweepy preprocessing called for basic preprocessing
             clean_text = p.clean(data['text'])
 			
-			#call clean_tweet method for extra preprocessing
+	    #call clean_tweet method for extra preprocessing
             filtered_tweet=clean_tweets(clean_text)
             
             tweet = filtered_tweet
