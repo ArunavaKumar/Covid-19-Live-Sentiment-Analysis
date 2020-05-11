@@ -31,10 +31,10 @@ def create_table():
 create_table()
 
 #consumer key, consumer secret, access token, access secret.
-ckey="FgobVQrfK3mmeq5M0q0O62shE"
-csecret="CTgAW25hBAwsL8dddnUzDMrsWzVOZTaRxmNkV1CoFJtFM77YJV"
-atoken="1240676439755763714-59dOlFdghYmfXFE0czBh6BZlYCLIQC"
-asecret="CalTuAU80qdCuGtiVvwjZr2M0NOHj8R8nZWeNvH2sbdwf"
+ckey="#"
+csecret="#"
+atoken="#"
+asecret="#"
 
 # Happy Emoticons
 emoticons_happy = set([
