@@ -53,7 +53,7 @@ def update_graph_scatter(input_data):
 
         return {'data': [data],'layout' : go.Layout(xaxis=dict(range=[min(X),max(X)]),
                                                 yaxis=dict(range=[min(Y),max(Y)]),
-												title='Term: {}'.format(sentiment_term),)}
+						title='Term: {}'.format(sentiment_term),)}
 
     except Exception as e:
         with open('errors.txt','a') as f:
