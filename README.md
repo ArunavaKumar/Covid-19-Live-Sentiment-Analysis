@@ -21,4 +21,4 @@ Please install the following packages to execute all the codes.
 - **vaderSentiment**==3.3.2
 - **unidecode**==1.2.0
 
-(Click here)[https://drive.google.com/file/d/1uoqTIQZScV9zqFATvDwaUlHAst-C2to2/view?usp=sharing] to watch the project demonstration video.
+[Click here](https://drive.google.com/file/d/1uoqTIQZScV9zqFATvDwaUlHAst-C2to2/view?usp=sharing) to watch the project demonstration video.
