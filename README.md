@@ -1,4 +1,4 @@
-# Live Sentiment Analysis from Twitter
+# Codid-19 Live Sentiment Analysis
 ## Live Sentiment Analysis on COVID-19 tweets from Twitter
 #### By Arunava Kumar Chakraborty
 
