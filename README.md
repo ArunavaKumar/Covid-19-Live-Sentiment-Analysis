@@ -2,7 +2,7 @@
 ## Live Sentiment Analysis on COVID-19 tweets from Twitter
 #### By Arunava Kumar Chakraborty
 
-In this experimental approach, I have developed a simple Sentiment Analysis Application that will perform the following operations
+In this experimental approach, I have developed a simple Sentiment Analysis Application that will perform the following operations -
 1. First the application is fetching the tweets on **"COVID-19"** from Twitter I have used the **tweepy** API for **python** to do so. I have created a Twitter developer account for creating an application to generate the Twitter credentials for the app These are - **consumer key**, **consumer secret key**, **access token key**, **access secret key**.
 2. The fetched tweets are cleaned and preprocessed by using the **NLTK (Natural Language Toolkit)** package thus the stop words can be removed.
 3. The cleaned and pre-processed tweets are stored in an **SQLite Database File** (.db format).
